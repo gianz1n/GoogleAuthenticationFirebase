@@ -1,0 +1,7 @@
+{
+  "name": "auth-fileUpdate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
